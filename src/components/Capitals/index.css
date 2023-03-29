@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-container {
+  width: 40%;
+  background-color: #f8fafc;
+  max-width: 650px;
+  border-radius: 10px;
+  padding: 40px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 28px;
+  font-family: 'Roboto';
+  text-align: left;
+}
+.input-container {
+  display: flex;
+}
+.which-capital {
+  color: #323f4b;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-left: 5px;
+}
+.capital-name {
+  color: #000000;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 4px;
+  border: 1px solid #cbd2d9;
+}
+.country-name {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: 500;
+}
